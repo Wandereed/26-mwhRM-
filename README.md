@@ -10,7 +10,6 @@
 拟合附加题视频。
 ### Tag_detector
 Tag识别任务
-
 * 视频均已上传至 Issue
 * 报名表已上传至 Issue
 Tag 识别任务分多日完成，使用 AI 为 ChatGPT。
